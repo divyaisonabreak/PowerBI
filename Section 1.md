@@ -40,6 +40,7 @@ Unique excel features:
   - Pivottables
   - A1 Notation
   - Cell Formulas
+
 Unique PowerBI features:
   - Report view
   - Custom Visuals
