@@ -23,15 +23,15 @@ Microsoft Power BI is a self-service business intelligence platform, which inclu
 ### Why PowerBI:
 
 1. Connect, transform and load millions of rows of data
-  - Access data from virtually anywhere (database tables, flat files, web, cloud services, folders, etc.), and create fully automated workflows to extract, transform and load data for analysis
+    - Access data from virtually anywhere (database tables, flat files, web, cloud services, folders, etc.), and create fully automated workflows to extract, transform and load data for analysis
 2. Build relational models to blend data from multiple sources
-  - Create table relationships to analyze holistic performance across an entire relational data model
+    - Create table relationships to analyze holistic performance across an entire relational data model
 3. Define complex calculations using Data Analysis Expressions (DAX)
-  - Enhance datasets and enable advanced analytics with powerful and portable DAX expressions
+    - Enhance datasets and enable advanced analytics with powerful and portable DAX expressions
 4. Bring data to life with interactive reports and dashboards
-  - Build professional-quality reports and dashboards with best-in-class visualization tools
+    - Build professional-quality reports and dashboards with best-in-class visualization tools
 5. Develop a versatile, in-demand skill set
-  - Power BI is the industry leader in self-service BI, and the skills you build in this course will be highly transferrable
+    - Power BI is the industry leader in self-service BI, and the skills you build in this course will be highly transferrable
 
 ### Excel vs. PowerBI
 
